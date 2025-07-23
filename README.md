@@ -1,14 +1,31 @@
-## Luciano Simas Junior (Dev - Full Stack): 
+# [Luciano Simas Junior](https://www.linkedin.com/in/lucianosimasjr/)
 
-👨‍💻 Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela FMP(Faculdade Municipal de Palhoça) e Técnico em Desenvolvimento de Sistemas IFSC(Florianópolis - Centro) simultaneamente.
+**`Estudando para me tornar um DEV FullStack 👨‍💻`**
 
-🚀 Estou me tornando um entusiasta da programação, já desenvolvi alguns joguinhos para por em prática meus conhecimentos! 
+📌Atualmente, curso simultaneamente Análise e Desenvolvimento de Sistemas na Faculdade Municipal de Palhoça (FMP) e Técnico em Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina (IFSC).
 
-💡 Um jogo que me orgulho de ter criado foi em Python, no qual eu desenvolvi um jogo de tabuleiro em texto utilizando apenas a lógica de progração!
+Estou me tornando um entusiasta da programação, sempre consumindo conteúdos voltados à área de tecnologia e desenvolvendo pequenos jogos para pôr em prática meus conhecimentos. Um projeto de que me orgulho é um jogo de tabuleiro baseado em texto que criei com Python, utilizando puramente a lógica de programação!
 
-Abaixo estão algumas das minhas estatísticas aqui no GITHUB: 
+##
+### :part_alternation_mark: Linguagens e ferramentas que estou aprendendo a utilizar:
 
-[![Estatísticas do GitHub de Luciano](https://github-readme-stats.vercel.app/api?username=thesimas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: inline_block"><br>
+<img align="center" alt="Java" width="50px" title="Java" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="center" alt="HTML" width="50px" title="HTML" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="center" alt="CSS" width="50px" title="CSS" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="center" alt="JavaScript" width="50px" title="JavaScript" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<img align="center" alt="Python" width="50px" title="Python" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="center" alt="GitHub" width="50px" title="GitHub" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br/>
+</div>
 
-[![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thesimas&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+##
 
+<div>
+  <a href="https://github.com/thesimas">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thesimas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/thesimas">
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesimas&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>

@@ -26,6 +26,6 @@ Estou me tornando um entusiasta da programação, sempre consumindo conteúdos v
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thesimas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=7200""alt="Gráficos de Commits"/>
   </a>
   <a href="https://github.com/thesimas">
-  <img height="180px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesimas&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=7200" alt="Linguagens Mais Usadas no GitHub"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesimas&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=7200" alt="Linguagens Mais Usadas no GitHub"/>
 </a>
 </div>

@@ -1,10 +1,10 @@
-# [Luciano Simas Junior](https://www.linkedin.com/in/lucianosimasjr/)
+# [![LinkedIn](https://i.sstatic.net/gVE0j.png) Luciano Simas Junior](https://www.linkedin.com/in/lucianosimasjr/)
+&nbsp;
 
-**`Estudando para me tornar um DEV FullStack 👨‍💻`**
+:mortar_board:Gruando em Análise e Desenvolvimento de Sistemas na Faculdade Municipal de Palhoça (FMP).<br>
+:notebook_with_decorative_cover:Cursando Técnico em Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina (IFSC).
 
-📌Atualmente, curso simultaneamente Análise e Desenvolvimento de Sistemas na Faculdade Municipal de Palhoça (FMP) e Técnico em Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina (IFSC).
-
-Estou me tornando um entusiasta da programação, sempre consumindo conteúdos voltados à área de tecnologia e desenvolvendo pequenos jogos para pôr em prática meus conhecimentos. Um projeto de que me orgulho é um jogo de tabuleiro baseado em texto que criei com Python, utilizando puramente a lógica de programação!
+:large_blue_diamond: Estou me tornando um entusiasta da programação, sempre consumindo conteúdos voltados à área de tecnologia e desenvolvendo pequenos jogos para pôr em prática meus conhecimentos. 
 
 ##
 ### :part_alternation_mark: Linguagens e ferramentas que estou aprendendo a utilizar:
@@ -23,9 +23,9 @@ Estou me tornando um entusiasta da programação, sempre consumindo conteúdos v
 
 <div>
   <a href="https://github.com/thesimas">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thesimas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=7200""alt="Gráficos de Commits"/>
+   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesimas&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=7200" alt="Linguagens Mais Usadas no GitHub"/>
   </a>
   <a href="https://github.com/thesimas">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesimas&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=7200" alt="Linguagens Mais Usadas no GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thesimas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=7200" alt="Gráficos de Commits"/>
 </a>
 </div>

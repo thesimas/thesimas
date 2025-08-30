@@ -1,7 +1,7 @@
 # [![LinkedIn](https://i.sstatic.net/gVE0j.png) Luciano Simas Junior](https://www.linkedin.com/in/lucianosimasjr/)
 &nbsp;
 
-:mortar_board:Gruando em Análise e Desenvolvimento de Sistemas na Faculdade Municipal de Palhoça (FMP).<br>
+:mortar_board:Graduando em Análise e Desenvolvimento de Sistemas na Faculdade Municipal de Palhoça (FMP).<br>
 :notebook_with_decorative_cover:Cursando Técnico em Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina (IFSC).
 
 :large_blue_diamond: Estou me tornando um entusiasta da programação, sempre consumindo conteúdos voltados à área de tecnologia e desenvolvendo pequenos jogos para pôr em prática meus conhecimentos. 

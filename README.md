@@ -22,11 +22,11 @@
 
 ##
 
-  <div>
-  <a href="https://github.com/thesimas">
-    <img height="180em" src="https://github-readme-stats-azure-beta-11.vercel.app/api/top-langs/?username=thesimas&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=3600" alt="Linguagens Mais Usadas no GitHub"/>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img style="margin: 5px;" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesimas&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens Mais Usadas"/>
   </a>
-  <a href="https://github.com/thesimas">
-    <img height="180em" src="https://github-readme-stats-azure-beta-11.vercel.app/api?username=thesimas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=3600" alt="Gráficos de Commits"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img style="margin: 5px;" height="200em" src="https://github-readme-stats.vercel.app/api?username=thesimas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
   </a>
 </div>

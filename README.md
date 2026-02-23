@@ -4,7 +4,7 @@
 :mortar_board:Graduando em Análise e Desenvolvimento de Sistemas na Faculdade Municipal de Palhoça (FMP).<br>
 :notebook_with_decorative_cover:Cursando Técnico em Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina (IFSC).
 
-:large_blue_diamond: Estou me tornando um entusiasta da programação, sempre consumindo conteúdos voltados à área de tecnologia e desenvolvendo pequenos jogos para pôr em prática meus conhecimentos. 
+:large_blue_diamond: Estou me tornando um entusiasta da programação, sempre consumindo conteúdos voltados à área de tecnologia e desenvolvendo pequenos programas para pôr em prática meus conhecimentos. 
 
 ##
 ### :part_alternation_mark: Linguagens e ferramentas que estou aprendendo a utilizar:
@@ -18,15 +18,4 @@
 <img align="center" alt="PHP" width="50px" title="PHP" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img align="center" alt="GitHub" width="50px" title="GitHub" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br/>
-</div>
-
-##
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img style="margin: 5px;" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesimas&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens Mais Usadas"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img style="margin: 5px;" height="200em" src="https://github-readme-stats.vercel.app/api?username=thesimas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  </a>
 </div>

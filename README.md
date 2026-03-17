@@ -1,21 +1,38 @@
+
 # [![LinkedIn](https://i.sstatic.net/gVE0j.png) Luciano Simas Junior](https://www.linkedin.com/in/lucianosimasjr/)
-&nbsp;
+---
 
-:mortar_board:Graduando em Análise e Desenvolvimento de Sistemas na Faculdade Municipal de Palhoça (FMP).<br>
-:notebook_with_decorative_cover:Cursando Técnico em Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina (IFSC).
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** e **Técnico em Desenvolvimento de Sistemas**, ambos pelo Instituto Federal de Santa Catarina (IFSC).
 
-:large_blue_diamond: Estou me tornando um entusiasta da programação, sempre consumindo conteúdos voltados à área de tecnologia e desenvolvendo pequenos programas para pôr em prática meus conhecimentos. 
+💻 Sou apaixonado por tecnologia e programação. Gosto de passar meu tempo livre aprendendo coisas novas, explorando ferramentas e criando projetos práticos para colocar a mão na massa e testar o que acabei de estudar.
 
-##
-### :part_alternation_mark: Linguagens e ferramentas que estou aprendendo a utilizar:
+---
 
-<div style="display: inline_block"><br>
-<img align="center" alt="HTML" width="50px" title="HTML" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="center" alt="CSS" width="50px" title="CSS" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="center" alt="JavaScript" width="50px" title="JavaScript" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-<img align="center" alt="Python" width="50px" title="Python" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="center" alt="Java" width="50px" title="Java" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="center" alt="PHP" width="50px" title="PHP" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img align="center" alt="GitHub" width="50px" title="GitHub" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br/>
+### 🛠️ Linguagens e ferramentas que utilizo:
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
 </div>
+
+
+### 📊 Minhas Estatísticas:
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=thesimas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=onedark&locale=pt-br&hide_border=true" height="400px" width="49%" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thesimas&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true"  width="40%" alt="languages graph" />
+</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thesimas.thesimas&left_text=Visitantes" alt="visitors" />&nbsp;<br>

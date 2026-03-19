@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠️ Linguagens e ferramentas que utilizo:
+### Linguagens e ferramentas que utilizo:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="java" alt="java logo" />
@@ -29,7 +29,7 @@
 </div>
 
 
-### 📊 Minhas Estatísticas:
+### Minhas Estatísticas:
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=thesimas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=onedark&locale=pt-br&hide_border=true" height="400px" width="49%" alt="stats graph" />

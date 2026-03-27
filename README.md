@@ -32,7 +32,8 @@
 ### Minhas Estatísticas:
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=thesimas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=onedark&locale=pt-br&hide_border=true" height="400px" width="49%" alt="stats graph" />
+ <img src="https://github-readme-stats-two-sable-1vqn8bmdol.vercel.app/api?username=thesimas&show_icons=true&include_all_commits=true&theme=onedark&locale=pt-br&hide_border=true" width="50%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thesimas&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true"  width="40%" alt="languages graph" />
 </div>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thesimas.thesimas&left_text=Visitantes" alt="visitors" />&nbsp;<br>
+<br>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=thesimas.thesimas&left_text=Visitantes" alt="visitors" />&nbsp;<br>

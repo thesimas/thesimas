@@ -4,7 +4,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** e **Técnico em Desenvolvimento de Sistemas**, ambos pelo Instituto Federal de Santa Catarina (IFSC).
 
-💻 Sou apaixonado por tecnologia e programação. Gosto de passar meu tempo livre aprendendo coisas novas, explorando ferramentas e criando projetos práticos para colocar a mão na massa e testar o que acabei de estudar.
+💻 Gosto de passar meu tempo livre aprendendo coisas novas, explorando ferramentas e criando projetos práticos para colocar a mão na massa e testar o que acabei de estudar.
 
 ---
 

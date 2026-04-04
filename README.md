@@ -31,9 +31,11 @@
 
 ### Minhas Estatísticas:
 
-<div>
- <img src="https://github-readme-stats-two-sable-1vqn8bmdol.vercel.app/api?username=thesimas&show_icons=true&include_all_commits=true&theme=onedark&locale=pt-br&hide_border=true" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thesimas&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true"  width="40%" alt="languages graph" />
+<div align="left">
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img height="180em" src="https://stats-thesimas.vercel.app/api?username=thesimas&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+    <img height="180em" src="https://stats-thesimas.vercel.app/api/top-langs/?username=thesimas&layout=compact&langs_count=6&theme=onedark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+  </div>
 </div>
 <br>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=thesimas.thesimas&left_text=Visitantes" alt="visitors" />&nbsp;<br>

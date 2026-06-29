@@ -1,7 +1,6 @@
-
 # [![LinkedIn](https://i.sstatic.net/gVE0j.png) Luciano Simas Junior](https://www.linkedin.com/in/lucianosimasjr/)
 [![Vídeo no YouTube](https://img.shields.io/badge/Acesse_meu-Youtube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@thesimas?si=V4Btown2MrQfQkLc)
----
+
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** e **Técnico em Desenvolvimento de Sistemas**, ambos pelo Instituto Federal de Santa Catarina (IFSC).
 

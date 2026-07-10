@@ -2,7 +2,7 @@
 [![Vídeo no YouTube](https://img.shields.io/badge/Acesse_meu-Canal-red?style=for-the-badge&logo=youtube)](https://youtube.com/@thesimas?si=V4Btown2MrQfQkLc)
 
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** e **Técnico em Desenvolvimento de Sistemas**, ambos pelo Instituto Federal de Santa Catarina (IFSC).
+🎓 **Técnico em Desenvolvimento de Sistemas** e graduando em **Análise e Desenvolvimento de Sistemas**, ambos pelo Instituto Federal de Santa Catarina (IFSC).
 
 💻 Gosto de passar meu tempo livre aprendendo coisas novas, explorando ferramentas e criando projetos práticos para colocar a mão na massa e testar o que acabei de estudar.
 
